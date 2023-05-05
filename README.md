@@ -1,12 +1,12 @@
-# Marvel Heroes Swift
+# Marvel Heroes Swift version 1.0
+## Author
 
-<img src="https://raw.githubusercontent.com/emersonsmp/MarvelSwiftApp/Images/foto-branca-download-wallpapers-e-onde-usar_o1fcm9aiph1mte1km1f11cs53mng.png" title="Marvel Heroes">
+**Emerson Sampaio**  [Github](https://github.com/emersonsmp) [Linkedin](https://www.linkedin.com/in/emersonsmp/)
+
+![banner](https://user-images.githubusercontent.com/32761815/236539633-494bfe0c-7e95-457c-a115-1c28a57433f5.png)
+
 
 ## Built With
 
 * [Swift](https://www.apple.com/br/swift/)
-
-
-## Author
-
-* **Emerson Sampaio**  [Github](https://github.com/emersonsmp) [Linkedin](https://www.linkedin.com/in/emersonsmp/)
+* [AlamoFire](https://github.com/Alamofire/Alamofire) 
